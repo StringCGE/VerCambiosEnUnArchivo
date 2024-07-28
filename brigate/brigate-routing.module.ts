@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { BrigateIndexComponent } from './pages/brigate-index/brigate-index.component';
+import { CommonModule } from '@angular/common';
 
 const routes: Routes = [
   {
